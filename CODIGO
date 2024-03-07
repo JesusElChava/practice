@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content= "width-device-width, initial-scale-1.0">
+    <title> Mexico salvaje </title>
+</head>
+
+<body>
+    <header>
+        <center><h1> Mexico salvaje </h1> </center>
+        <center><h3> Mexico salvaje, almacena contenido sobre los animales no domesticados que se encuentran en la naturaleza, <br>
+        con el fin de brindar informacion para todo tipo de publico</h3></center>
+        <center><h2> <i> ¿Que animales salvajes hay en Africa? </i> </h2></center>
+    </header>
+
+    <section>
+        <article>
+            <center><h2> Jaguar </h2></center>
+            <center> <p> <i> <span style="color: darkred;"> Este animal, habita la selva humeda como la de Chiapas, es un <br>
+            felino suficientemente agresivo para sacarte a correr cada que quiera, mide dentro de 2 metros de <br>
+            largo y 90 cm de alto. </span></i></p></center>
+            <center> <img src="C:\Users\52476\Desktop\paginaweb\jaguar.jpeg"></center>
+        </article>
+    </section>
+
+    <footer>
+        <p>&copy Ing.Salvador Guzman </p>
+    </footer>
+</body>
